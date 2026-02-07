@@ -1,8 +1,13 @@
 ##                                                                             Hi 👋 I'm Alfred Mtambalika
+<h1 align="center">Hi 👋, I'm Alfred</h1>
 
 
-##💫 About Me:
-## Hi 👋 I'm Alfred Mtambalika
+## 💫About  Me:
+I’m a Computer Applications student from Som-Lalit Institute of Computer Applications who is deeply passionate about building real-world projects and improving development skills.
+
+## 🚀 What I'm Up To
+ 🤖 Exploring Machine Learning with scikit-learn
+ 💻 Building Spring Boot applications with PostgreSQL
 <!--
 **KaranDev316/KaranDev316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
