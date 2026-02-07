@@ -15,9 +15,14 @@ I’m a Computer Applications student from Som-Lalit Institute of Computer Appli
 - 🏗️ Studying **System Design & Scalable Architecture**
 
  
-## 🌐 Connect with me:
-LinkedIn
- email + linkedin
+## 📫 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfreddev@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alfred-dev)
+
+
+
  
  ## 💻 Tech Stack:
  Languages:  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
