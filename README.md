@@ -5,9 +5,15 @@
 ## 💫About  Me:
 I’m a Computer Applications student from Som-Lalit Institute of Computer Applications who is deeply passionate about building real-world projects and improving development skills.
 
-## 🚀 What I'm Up To
- 🤖 Exploring Machine Learning with scikit-learn
- 💻 Building Spring Boot applications with PostgreSQL
+## 🚀 What I’m Up To
+
+- ⚛️ Learning and building projects with **React.js**
+- 🟦 Advancing my skills in **TypeScript**
+- 🐍 Exploring backend development with **Python & Django**
+- 🗄️ Working with **SQL** databases
+- 🎨 Styling modern UIs using **Tailwind CSS**
+- 🏗️ Studying **System Design & Scalable Architecture**
+
  
 ## 🌐 Connect with me:
 LinkedIn
