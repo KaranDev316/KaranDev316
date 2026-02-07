@@ -12,6 +12,11 @@ I’m a Computer Applications student from Som-Lalit Institute of Computer Appli
 ## 🌐 Connect with me:
 LinkedIn
  email + linkedin
+ 
+ ## 💻 Tech Stack:
+ Languages:  Java SQL HTML5 CSS JavaScript C VHDL
+
+ 
 <!--
 **KaranDev316/KaranDev316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
