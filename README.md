@@ -16,31 +16,18 @@
 
 ## About
 
-I'm a Computer Applications student at **Som-Lalit Institute of Computer Applications**, focused on building useful web applications and developer tools with **React, TypeScript, Python, and SQL**.
+I build software around problems I can observe and understand.
 
-My interests include backend development, database design, and system architecture. Through my projects, I'm strengthening my ability to turn a practical problem into working software with clear code and documentation.
+I'm a **Bachelor of Computer Applications student at Gujarat University**, based in Ahmedabad, focused on **backend development and practical web applications**.
 
-I'm interested in **software engineering internships and entry-level roles**, particularly in full-stack and backend development.
+I'm looking for **software engineering internships and junior backend or full-stack roles** where I can contribute to useful products and learn from experienced engineering teams.
 
 ## Selected Projects
 
-### PromptSphere
-
-Full-stack AI chat workspace built with the MERN stack and OpenAI. Includes JWT authentication, protected API routes, persistent conversation history, and support for creating and managing multiple chats.
-
-**Tech stack:** React, Node.js, Express.js, MongoDB, Mongoose, OpenAI API.
-
-[Live demo](https://prompt-sphere-gules.vercel.app/) · [Source code](https://github.com/KaranDev316/PromptSphere)
-
-### VC Intelligence
-
-AI-assisted company discovery workspace for venture capital teams. Supports company search and filtering, public-website enrichment, structured company summaries, and keyword-based scoring against an investment thesis.
-
-Runs AI enrichment in a Next.js server route, with source attribution and timestamps. Saves enrichment results, notes, custom lists, and searches in browser `localStorage`.
-
-**Tech stack:** Next.js, React, TypeScript, OpenAI Responses API, browser `localStorage`.
-
-[Live demo](https://vc-intelligence-gray.vercel.app/) · [Source code](https://github.com/KaranDev316/VC-Intelligence)
+| Project & links | What it does | Tech stack |
+| --- | --- | --- |
+| **PromptSphere**<br>[Code](https://github.com/KaranDev316/PromptSphere) · [Demo](https://prompt-sphere-gules.vercel.app/) | Full-stack AI chat with JWT authentication, persistent history, and multiple conversations. | React, Node.js, Express.js, MongoDB, OpenAI |
+| **VC Intelligence**<br>[Code](https://github.com/KaranDev316/VC-Intelligence) · [Demo](https://vc-intelligence-gray.vercel.app/) | Company discovery with AI website enrichment, transparent thesis scoring, and saved lists. | Next.js, TypeScript, OpenAI |
 
 Portfolio: [View my portfolio repository](https://github.com/KaranDev316/portfolio)
 
