@@ -24,10 +24,23 @@ I'm interested in **software engineering internships and entry-level roles**, pa
 
 ## Selected Projects
 
-| Project | Primary language |
-| --- | --- |
-| [PromptSphere](https://github.com/KaranDev316/PromptSphere) | JavaScript |
-| [VC-Intelligence](https://github.com/KaranDev316/VC-Intelligence) | TypeScript |
+### PromptSphere
+
+Full-stack AI chat workspace built with the MERN stack and OpenAI. Includes JWT authentication, protected API routes, persistent conversation history, and support for creating and managing multiple chats.
+
+**Tech stack:** React, Node.js, Express.js, MongoDB, Mongoose, OpenAI API.
+
+[Live demo](https://prompt-sphere-gules.vercel.app/) · [Source code](https://github.com/KaranDev316/PromptSphere)
+
+### VC Intelligence
+
+AI-assisted company discovery workspace for venture capital teams. Supports company search and filtering, public-website enrichment, structured company summaries, and keyword-based scoring against an investment thesis.
+
+Runs AI enrichment in a Next.js server route, with source attribution and timestamps. Saves enrichment results, notes, custom lists, and searches in browser `localStorage`.
+
+**Tech stack:** Next.js, React, TypeScript, OpenAI Responses API, browser `localStorage`.
+
+[Live demo](https://vc-intelligence-gray.vercel.app/) · [Source code](https://github.com/KaranDev316/VC-Intelligence)
 
 Portfolio: [View my portfolio repository](https://github.com/KaranDev316/portfolio)
 
@@ -36,9 +49,11 @@ Portfolio: [View my portfolio repository](https://github.com/KaranDev316/portfol
 | Area | Technologies |
 | --- | --- |
 | Languages | TypeScript, JavaScript, Python, SQL |
-| Frontend | React, Tailwind CSS, HTML, CSS |
-| Backend | FastAPI |
-| Databases | PostgreSQL, MySQL, Oracle SQL |
+| Frontend | React, Next.js, Tailwind CSS, HTML, CSS |
+| Backend | FastAPI, Node.js, Express.js |
+| Databases | PostgreSQL, MongoDB, MySQL, Oracle SQL |
+| AI integration | OpenAI API |
+| Deployment | Vercel, Render |
 | Development tools | Git, GitHub, Linux |
 | Additional foundations | Java, C |
 
