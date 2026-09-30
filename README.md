@@ -24,13 +24,12 @@ I'm interested in **software engineering internships and entry-level roles**, pa
 
 ## Selected Projects
 
-| Project | What it does | Technology |
-| --- | --- | --- |
-| [ApplyFlow Extension](https://github.com/KaranDev316/Applyflow-extension) | Chrome extension for filling job application forms using saved profile information. | JavaScript, Chrome Extensions |
-| [TrimQ](https://github.com/KaranDev316/TrimQ) | Barber booking and queue management application. | JavaScript |
-| [Portfolio](https://github.com/KaranDev316/portfolio) | Personal portfolio showcasing my development work. | JavaScript |
+| Project | Primary language |
+| --- | --- |
+| [PromptSphere](https://github.com/KaranDev316/PromptSphere) | JavaScript |
+| [VC-Intelligence](https://github.com/KaranDev316/VC-Intelligence) | TypeScript |
 
-More repositories: [PromptSphere](https://github.com/KaranDev316/PromptSphere) Â· [VC-Intelligence](https://github.com/KaranDev316/VC-Intelligence)
+Portfolio: [View my portfolio repository](https://github.com/KaranDev316/portfolio)
 
 ## Technical Skills
 
@@ -38,13 +37,14 @@ More repositories: [PromptSphere](https://github.com/KaranDev316/PromptSphere) Â
 | --- | --- |
 | Languages | TypeScript, JavaScript, Python, SQL |
 | Frontend | React, Tailwind CSS, HTML, CSS |
-| Databases | MySQL, Oracle SQL |
+| Backend | FastAPI |
+| Databases | PostgreSQL, MySQL, Oracle SQL |
 | Development tools | Git, GitHub, Linux |
 | Additional foundations | Java, C |
 
 ## Current Focus
 
-- Developing backend applications with Python and relational databases.
+- Developing backend applications and APIs with Python, FastAPI, and PostgreSQL.
 - Strengthening data structures, algorithms, and problem-solving skills.
 - Studying system design and scalable application architecture.
 
