@@ -1,75 +1,53 @@
-                       
-<h1 align="center">Hi 👋, I'm Alfred Mtambalika</h1>
+<h1 align="center">Alfred Mtambalika</h1>
 
+<p align="center">
+  <strong>Software Engineer | Full-stack & Backend Development</strong>
+</p>
 
-## 💫About  Me:
-I’m a Computer Applications student from Som-Lalit Institute of Computer Applications who is deeply passionate about building real-world projects and improving development skills.
+<p align="center">
+  Ahmedabad, India · Bachelor of Computer Applications student
+</p>
 
-## 🚀 What I’m Up To
+<p align="center">
+  <a href="mailto:alfredm1605@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/alfred-mtambalika-ba2b5737a/">LinkedIn</a> ·
+  <a href="https://github.com/KaranDev316?tab=repositories">Repositories</a>
+</p>
 
-- ⚛️ Learning and building projects with **React.js**
-- 🟦 Advancing my skills in **TypeScript**
-- 🐍 Exploring backend development with **Python & Django**
-- 🗄️ Working with **SQL** databases
-- 🎨 Styling modern UIs using **Tailwind CSS**
-- 🏗️ Studying **System Design & Scalable Architecture**
+## About
 
- 
-## 📫 Contact Me
+I'm a Computer Applications student at **Som-Lalit Institute of Computer Applications**, focused on building useful web applications and developer tools with **React, TypeScript, Python, and SQL**.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfredm1605@gmail.com)
+My interests include backend development, database design, and system architecture. Through my projects, I'm strengthening my ability to turn a practical problem into working software with clear code and documentation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfred-mtambalika-ba2b5737a/)
+I'm interested in **software engineering internships and entry-level roles**, particularly in full-stack and backend development.
 
+## Selected Projects
 
+| Project | What it does | Technology |
+| --- | --- | --- |
+| [ApplyFlow Extension](https://github.com/KaranDev316/Applyflow-extension) | Chrome extension for filling job application forms using saved profile information. | JavaScript, Chrome Extensions |
+| [TrimQ](https://github.com/KaranDev316/TrimQ) | Barber booking and queue management application. | JavaScript |
+| [Portfolio](https://github.com/KaranDev316/portfolio) | Personal portfolio showcasing my development work. | JavaScript |
 
- 
- ## 💻 Tech Stack:
- Languages:  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-             ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-             ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-             ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-             ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-             ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-             ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-             ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-             
-Libralies/Frameworks: ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-                      ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+More repositories: [PromptSphere](https://github.com/KaranDev316/PromptSphere) · [VC-Intelligence](https://github.com/KaranDev316/VC-Intelligence)
 
-## 🧰 Tools & Development Environment
+## Technical Skills
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, SQL |
+| Frontend | React, Tailwind CSS, HTML, CSS |
+| Databases | MySQL, Oracle SQL |
+| Development tools | Git, GitHub, Linux |
+| Additional foundations | Java, C |
 
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+## Current Focus
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- Developing backend applications with Python and relational databases.
+- Strengthening data structures, algorithms, and problem-solving skills.
+- Studying system design and scalable application architecture.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## Contact
 
-
-
-
-
-
-
-
-
-
-
- 
-<!--
-**KaranDev316/KaranDev316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For opportunities or project discussions, reach me at **[alfredm1605@gmail.com](mailto:alfredm1605@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/alfred-mtambalika-ba2b5737a/)**.
